@@ -1,0 +1,17 @@
+.DS_Store
+.idea/shelf
+/android.tests.dependencies
+/confluence/target
+/dependencies
+/dist
+/gh-pages
+/ideaSDK
+/android-studio/sdk
+/out
+/tmp
+workspace.xml
+*.versionsBackup
+/js/js.translator/testData/**/out/
+target/**
+build/
+!**/src/**/build

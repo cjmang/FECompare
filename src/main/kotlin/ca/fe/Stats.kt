@@ -6,4 +6,4 @@ package ca.fe.blazingblade
 
 sealed class Stat(val name: String, val abv: String, var value: Int, var growth: Double)
 
-data class HP(override var value: Int) : Stat(name="Hit Points", abv="HP")
+//data class HP(override var value: Int) : Stat(name="Hit Points", abv="HP")
